@@ -1,0 +1,22 @@
+{
+    "Header": {
+        "header_title": "Photo Album"
+    },
+    "Main_Top": {
+        "heading_top": "Photo Album",
+        "subtext_top": " Hello everyone! This is a photo album and I'm trying to make this sentence as long as possible so we can see how does it look like on the screen",
+        "button1_top": "See my photos",
+        "button2_top": "Secondary Action"
+    },
+    "Main_Cards": {
+        "card_heading": "Heading",
+        "card_text": "This is a media card. You can use this section to describe the content.",
+        "button1_card": "View",
+        "button2_card": "Edit"
+    },
+    "Footer": {
+        "footer_heading": "Footer",
+        "footer_text": "Something here to give the footer a purpose!"
+    }
+}
+
