@@ -1,8 +1,8 @@
 # Demo Project to learn Material-UI
-Built following the [video tutorial](https://www.youtube.com/watch?v=Xoz31I1FuiY)
-![](./src/videoTutorial.png)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and built following the [video tutorial](https://www.youtube.com/watch?v=Xoz31I1FuiY)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](./src/videoTutorial.png)
+
 
 ## Available Scripts
 
